@@ -1,4 +1,4 @@
-CTI-IDS: Cyber Threat Intelligence & Intrusion Detection System
+# CTI-IDS: Cyber Threat Intelligence & Intrusion Detection System
 
 A comprehensive, full-stack threat intelligence and intrusion detection framework powered by deep learning models (BERT, LSTM, CNN) for real-time malware and phishing detection.
 
